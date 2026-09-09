@@ -195,7 +195,7 @@ h2{font-size:clamp(31px,4vw,48px);line-height:1.16;letter-spacing:-.025em;margin
       <a href="#challenge">市場挑戰</a>
       <a href="#solutions">四大決策情境</a>
       <a href="#workflow">決策流程</a>
-      <a class="nav-cta" href="https://s786780033.t.en25.com/e/er?utm_campaign=EM2_TW_P_Bundle_Solution_Generic_LeadGen_Product_LS_China_2026&utm_medium=Email&utm_source=Eloqua&s=786780033&lid=37826" target="_blank" rel="noopener">下載案例分享 ↗</a>
+      <a class="nav-cta" href="https://s786780033.t.en25.com/e/er?utm_campaign=EM2_TW_P_Bundle_Solution_Generic_LeadGen_Product_LS_China_2026&utm_medium=Email&utm_source=Eloqua&s=786780033&lid=37826&elqTrackId=6ca461ec5dc74595acb9c83fd52f46cd&elq=7160528994464728b5f930663bd35170&elqaid=45899&elqat=1&elqak=8AF500214FE164E0027242321BFF06729E157B62FB2B88CBD49C059BEFA4E44A8EB0" target="_blank" rel="noopener">下載案例分享 ↗</a>
     </nav>
   </div>
 </header>
@@ -319,7 +319,7 @@ h2{font-size:clamp(31px,4vw,48px);line-height:1.16;letter-spacing:-.025em;margin
         <h2>從「價格競爭」走向「情報驅動的產品組合競爭」</h2>
         <p>真正可持續的成長，不只是增加產品數量，而是更早辨識高價值市場、更準確排序候選產品、同步處理全球法規要求，並在開發前期就把專利與法律風險納入決策。</p>
       </div>
-      <a class="btn btn-primary" style="background:#fff;color:#111827" href="https://s786780033.t.en25.com/e/er?utm_campaign=EM2_TW_P_Bundle_Solution_Generic_LeadGen_Product_LS_China_2026&utm_medium=Email&utm_source=Eloqua&s=786780033&lid=37826" target="_blank" rel="noopener">下載案例分享 ↗</a>
+      <a class="btn btn-primary" style="background:#fff;color:#111827" href="https://s786780033.t.en25.com/e/er?utm_campaign=EM2_TW_P_Bundle_Solution_Generic_LeadGen_Product_LS_China_2026&utm_medium=Email&utm_source=Eloqua&s=786780033&lid=37826&elqTrackId=6ca461ec5dc74595acb9c83fd52f46cd&elq=7160528994464728b5f930663bd35170&elqaid=45899&elqat=1&elqak=8AF500214FE164E0027242321BFF06729E157B62FB2B88CBD49C059BEFA4E44A8EB0" target="_blank" rel="noopener">下載案例分享 ↗</a>
     </div>
     <div class="note">註：本頁為依提供之科睿唯安 EDM 內容重新編排的閱讀版 HTML，設計語言參考 Cortellis / Clarivate Life Sciences 官網常見的資訊層級、清晰留白、深色資料視覺與洞察導向呈現方式；並非 Clarivate 官方製作頁面。原專題中的市場數據與敘述沿用提供資料。</div>
   </div>
